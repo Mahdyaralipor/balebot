@@ -1,8 +1,8 @@
 # BaleBot PHP SDK
 
 <p align="center">
-  <a href="https://packagist.org/packages/Mahdyaralipor/balebot"><img src="https://img.shields.io/packagist/v/Mahdyaralipor/balebot" alt="Latest Version"></a>
-  <a href="https://packagist.org/packages/Mahdyaralipor/balebot"><img src="https://img.shields.io/packagist/php-v/Mahdyaralipor/balebot" alt="PHP Version"></a>
+  <a href="https://packagist.org/packages/balebot/balebot"><img src="https://img.shields.io/packagist/v/Mahdyaralipor/balebot" alt="Latest Version"></a>
+  <a href="https://packagist.org/packages/balebot/balebot"><img src="https://img.shields.io/packagist/php-v/Mahdyaralipor/balebot" alt="PHP Version"></a>
   <a href="https://github.com/Mahdyaralipor/balebot/actions"><img src="https://github.com/Mahdyaralipor/balebot/workflows/CI/badge.svg" alt="CI Status"></a>
   <a href="https://codecov.io/gh/Mahdyaralipor/balebot"><img src="https://codecov.io/gh/Mahdyaralipor/balebot/branch/main/graph/badge.svg" alt="Coverage"></a>
   <a href="LICENSE"><img src="https://img.shields.io/packagist/l/Mahdyaralipor/balebot" alt="License"></a>
